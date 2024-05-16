@@ -1,0 +1,203 @@
+.background{
+  background:rgb(248, 244, 244);
+}
+.dropdown1{
+  background-color:rgb(248, 244, 244) ;
+}
+.dropdown2{
+  background-color:rgb(248, 244, 244) ;
+}
+.dropdown3{
+  background-color:rgb(248, 244, 244) ;
+}
+
+
+
+  
+.article1{
+  height: 500px;
+  background-image: url(https://images.unsplash.com/photo-1603217192097-13c306522271?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover; 
+  background-position: center; 
+ 
+}
+
+.div-women{
+
+padding-left: 200px;
+padding-top: 250px;
+  
+}
+.div-shopwomen{
+  padding-left: 140px;
+  padding-top: 90px
+}
+  
+.article2{
+  height: 500px;
+  background-image: url(https://plus.unsplash.com/premium_photo-1664868839978-8fba95c0cdc1?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover; 
+  background-position: center; 
+ 
+}
+
+.div-men{
+
+padding-left: 200px;
+padding-top: 250px;
+  
+}
+.div-shopmen{
+  padding-left: 140px;
+  padding-top: 90px
+}
+
+  
+.article3{
+  height: 500px;
+  background-image: url(https://images.unsplash.com/photo-1543854704-2b1b011701e6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover; 
+  background-position: center; 
+ 
+}
+
+.div-kids{
+
+padding-left: 200px;
+padding-top: 250px;
+  
+}
+.div-shopkids{
+  padding-left: 140px;
+  padding-top: 90px
+}
+
+h6{
+  margin: 0;
+}
+.container-row{
+  border-bottom: 1px solid rgb(228, 211, 211);
+}
+.article4{
+  height: 400px;
+  background-image: url(https://images.unsplash.com/photo-1613482184972-f9c1022d0928?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover; 
+  background-position: center;
+  
+  
+}
+.article5{
+  height: 400px;
+  background-image: url(https://images.unsplash.com/photo-1593757147298-e064ed1419e5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover; 
+  background-position: center;
+  
+}
+.article6{
+  height: 400px;
+  background-image: url(https://images.unsplash.com/photo-1622104551503-0d869c6224bf?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size:cover; 
+  background-position: center;
+  
+ 
+  
+  
+}
+.article7{
+  height: 400px;
+  background-image: url(https://plus.unsplash.com/premium_photo-1673827311290-d435f481152e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover; 
+  background-position: center;
+
+}
+.nav-link{
+   position: relative;
+  color: black;
+  padding: 0 10px;
+}
+.nav-link:hover{
+  color: #ff6f61;
+}
+.nav-link::after{
+  content: "";
+  position: absolute;
+  background-color: #ff6f61;
+  height: 3px;
+  
+  left: 0;
+  bottom: -10px;
+  transition: 0.3s;
+
+}
+.nav-link:hover::after
+{
+  width: 100%;
+}
+
+.card1{
+  position: relative;
+}
+.new-text{
+  position: absolute;
+  bottom: 400px;
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.footer1{
+  height: 300px;
+  background-color:white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.last-link {
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.footer-div{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 47px;
+}
+.footer-div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 38px;
+    gap: 33px;
+}
+.Shopr{
+  text-align: center;
+    padding-top: 32px;
+}
+#last-para{
+  text-align: center;
+  margin-top: 89px;
+  font-size: 13px;
+}
+.container-last {
+  height: 150px;
+  width: 100%;
+  max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 293px;
+}
+
+  .last-icon {
+    width: 30px;
+    margin-left: 46px;
+    padding-top: 17px;
+}
+.discover-more{
+  cursor: pointer;
+  color: red;
+}
+
+
+
